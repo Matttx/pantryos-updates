@@ -9,29 +9,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.6</sparkle:minimumSystemVersion>
             <enclosure url="https://updates.pantryos.fr/PantryOS.app-1.0.1-5.dmg" length="6863483" type="application/octet-stream" sparkle:edSignature="uQxADP6vKFbeGOge3DXus/dAl+JfDGBRXNJ3uTGHPb+wBS2U8qG4X+/JpMmWSUbSafAaJpbEtfn8RBt2KHVKDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.pantryos.fr/PantryOS5-3.delta" sparkle:deltaFrom="3" length="12254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QFQstc9ElBMWUcH/XNwOQAexOWbKYa8nnvWq4rHR/1GfPfwQ6IHiQM3FPb4YHYHx/fgBHrj8BQ/FJhRh9/3WBA=="/>
-                <enclosure url="https://updates.pantryos.fr/PantryOS5-1.delta" sparkle:deltaFrom="1" length="11738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MFdArhebLSZzHOdvDVksuul8AVdgNDV5cXSIyeUEgDXDVaPi7KUyhhJVlmUa6pDrb7GdH2pycCwrddxX7htZCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 21 Apr 2026 19:00:10 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.pantryos.fr/PantryOS.app-1.0.1-3.dmg" length="6863500" type="application/octet-stream" sparkle:edSignature="eXoDwhXV0QD+ALN/ZHT+oK62Fsd9TnpandnOiaIraduTYtWZtBV12evpGDct47rTFMn0nI5ZBYV9n1tY5z1GBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.pantryos.fr/PantryOS3-1.delta" sparkle:deltaFrom="1" length="11526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6ec99tvEAlU5zFdtuuv5fXHa3Geq7+mxOZWHoqzI4OwEAU5AVAUKzgtaTRfYz3baMMAuUsy3LAq359bFUqL0CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sat, 11 Apr 2026 16:13:51 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.pantryos.fr/PantryOS.app-1.0.1-1.dmg" length="6863460" type="application/octet-stream" sparkle:edSignature="hHwWcWe6A+sHE1zciSo/QcuUiZrlHlGof8qRtGr/mMZb5pEQIYOBm/x/D3oA+0x8vqmzB1vDtocoUn8YLAekBw=="/>
         </item>
     </channel>
 </rss>
