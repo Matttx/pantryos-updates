@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>PantryOS</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Tue, 21 Apr 2026 19:03:38 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Wed, 22 Apr 2026 18:04:50 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.pantryos.fr/PantryOS.app-1.0.1-5.dmg" length="6863483" type="application/octet-stream" sparkle:edSignature="uQxADP6vKFbeGOge3DXus/dAl+JfDGBRXNJ3uTGHPb+wBS2U8qG4X+/JpMmWSUbSafAaJpbEtfn8RBt2KHVKDw=="/>
-        </item>
+            <enclosure url="https://updates.pantryos.fr/PantryOS.app-1.0.1-6.dmg" length="6881190" type="application/octet-stream" sparkle:edSignature="zYAnhj6q4KB2dVNbFxPg/U0t72IrLEadt7iobwDqIYA4laCAcYF7tp+9O9fJtX5hnI/azEqeCSml8+TQyZPyDg==" />
+        <sparkle:criticalUpdate /></item>
     </channel>
 </rss>
