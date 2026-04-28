@@ -3,12 +3,12 @@
     <channel>
         <title>PantryOS</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 27 Apr 2026 15:20:32 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Tue, 28 Apr 2026 18:07:14 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.pantryos.fr/PantryOS-1.0.1-22.dmg" length="6608009" type="application/octet-stream" sparkle:edSignature="KTZR1AZ2smekhwStpDzot+uVlPBEH2+LETZBNcycZa8cbv5SfK1/AryA2+Db+K9sz6jYuqPsulbA3OD9Fj4hBw=="/>
+            <enclosure url="https://updates.pantryos.fr/PantryOS-1.0.2-2.dmg" length="6552229" type="application/octet-stream" sparkle:edSignature="XGr9Gd0LhUmdVckhi1MZcEj3D1588t4nzWouEU0d86/tNOCTdTK//lNwyTtI+WpgBp39vkn+eIAlfoEQyOTKAw=="/>
         </item>
     </channel>
 </rss>
